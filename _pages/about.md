@@ -24,13 +24,13 @@ _styles: >
 
 Hi! I'm Joie Zhang (pronounced as "joey"). I'm a fourth-year CS undergraduate at Princeton University, where I'm grateful to be co-advised by [Prof. Danqi Chen](https://www.cs.princeton.edu/~danqic/) and [Prof. Peter Henderson](https://www.peterhenderson.co/). I am also a [MATS Scholar](https://www.matsprogram.org/) mentored by [Lewis Hammond](https://lewishammond.com/).
 
-My research focuses on alignment, safety, cooperation, and competition in (multi-agent) LLM systems.
+My research focuses on alignment + safety and pragmatic long-context reasoning evals for LLM agents.
 
 I'm particularly interested in investigating **MARL for safety and safety for MARL**: how we can use multi-agent RL to improve the adversarial robustness of language models? Conversely, how we can tackle new safety risks that emerge in multi-agent LLM systems? Recently, I've been thinking about pretraining safety, evaluation awareness, and how we can apply techniques from long-context language modeling to improve chain-of-thought faithfulness.
 
-I believe that (like any technology) AI has immense potential to transform the world positively, so the north star of my research is ensuring that progress goes safely, equitably, and smoothly. I aim to incorporate perspectives from both tech and policy to maximize the real-world impact of my research.
+Additionally, I’m interested in **rethinking long-context training, reasoning, and continual learning from the perspective of computer-use agents**; what if we designed new training paradigms that more closely resembled multi-turn dialogues? Can language models balance parametric updates on new, truthful information while remaining robust to lies, satire, and prompt injections that may cause confusion and misalignment? Beyond relying on context compression and recursive prompting techniques, how can we make both pretraining and post-training more suited for long-context multi-turn agent workflows?
 
-Outside of research, I lead [AI@Princeton](https://www.aiatprinceton.com/officers), which is Princeton's largest undergrad organization focused on increasing AI literacy on campus. I'm also the Treasurer of [Princeton Women in Computer Science](https://www.princetonwics.org/), a CS [teaching assistant](https://introlab.cs.princeton.edu/), and a member of the [Edwards Collective](https://edwards.princeton.edu/). When I'm not queueing jobs or manually reading inputs and outputs, I like to run, swim, and pet strangers' dogs.
+Outside of research, I lead [AI@Princeton](https://www.aiatprinceton.com/officers), which is Princeton's largest undergrad organization focused on increasing AI literacy on campus. I'm also the Treasurer of [Princeton Women in Computer Science](https://www.princetonwics.org/), a CS [teaching assistant](https://introlab.cs.princeton.edu/), and a member of the [Edwards Collective](https://edwards.princeton.edu/). When I'm not queueing jobs or reading outputs, I like to run, swim, and pet strangers' dogs.
 
 <p>
 <br>
