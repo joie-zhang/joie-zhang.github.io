@@ -3,18 +3,18 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Alex
-middle_name: L.
+first_name: Joie
+middle_name:
 last_name: Zhang
-email: alzhang@princeton.edu
+email: joie@princeton.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Alex Zhang's Website.
+  Joie Zhang's Website.
 footer_text: # footer text
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🫡 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://qiyaowei.github.io # the base hostname & protocol for your site
+url: https://joie-zhang.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -60,7 +60,7 @@ max_width: 900px
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: true # Include Schema.org in the HTML head
-og_image: https://qiyaowei.github.io/assets/img/preview/default.png # The site-wide (default for all links) Open Graph preview image
+og_image: https://joie-zhang.github.io/assets/img/preview/default.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -73,7 +73,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: QiyaoWei # your GitHub user name
+github_username: joie-zhang # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
@@ -81,7 +81,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: alexzhang13 # your LinkedIn user name
+linkedin_username: joie-zhang # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
@@ -90,7 +90,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: rtCr0q4AAAAJ # your Google Scholar ID
+scholar_userid: ql66dSwAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -102,7 +102,7 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: a1zhang # your X handle
+x_username: JoieZhang # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
@@ -115,7 +115,7 @@ contact_note: >
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics: G-K2L3VESDMP # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-LG09FV388J # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 
@@ -127,7 +127,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: the kitchen 🍜 # blog_name will be displayed in your blog page
+blog_name: Joie's Journal 🍜 # blog_name will be displayed in your blog page
 blog_description: these posts serve as technical resources for learning and research
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -143,7 +143,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: alexzhang13/alexzhang13 # <your-github-user-name>/<your-github-repo-name>
+  repo: joie-zhang/joie-zhang # <your-github-user-name>/<your-github-repo-name>
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
@@ -156,7 +156,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: alex # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -311,7 +311,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Zhang]
-  first_name: [Alex, A.]
+  first_name: [Joie]
 
   style: apa
   locale: en
