@@ -22,7 +22,7 @@ _styles: >
   }
 ---
 
-Hi! I'm Joie Zhang (pronounced as "joey"). I'm a fourth-year CS undergraduate at Princeton University, where I'm grateful to be co-advised by [Prof. Danqi Chen](https://www.cs.princeton.edu/~danqic/) and [Prof. Peter Henderson](https://www.peterhenderson.co/). I am also a [MATS Scholar](https://www.matsprogram.org/) mentored by [Lewis Hammond](https://lewishammond.com/).
+Hi! I'm Joie Zhang (pronounced as "joey"). I'm a fourth-year CS undergraduate at Princeton, where I'm grateful to be co-advised by [Prof. Danqi Chen](https://www.cs.princeton.edu/~danqic/) and [Prof. Peter Henderson](https://www.peterhenderson.co/). I am also a [MATS Scholar](https://www.matsprogram.org/) mentored by [Dr. Lewis Hammond](https://lewishammond.com/).
 
 My research focuses on alignment + safety and pragmatic long-context reasoning evals for LLM agents.
 
@@ -32,6 +32,8 @@ Additionally, I’m interested in **rethinking long-context training, reasoning,
 
 Outside of research, I lead [AI@Princeton](https://www.aiatprinceton.com/officers), which is Princeton's largest undergrad organization focused on increasing AI literacy on campus. I'm also the Treasurer of [Princeton Women in Computer Science](https://www.princetonwics.org/), a CS [teaching assistant](https://introlab.cs.princeton.edu/), and a member of the [Edwards Collective](https://edwards.princeton.edu/). When I'm not queueing jobs or reading outputs, I like to run, swim, and pet strangers' dogs.
 
+**Email:** [x]@princeton.edu where [x]=joie.
+
 <p>
 <br>
 <br>
@@ -40,11 +42,9 @@ Outside of research, I lead [AI@Princeton](https://www.aiatprinceton.com/officer
 ### research highlights:
 
 <ul>
-  <li><b>Reasoning-Focused Long-Context Evaluations.</b> <a href="https://princeton-pli.github.io/LongProc/#">LongProc</a> (COLM, 2025), <a href="https://openreview.net/forum?id=uCOMb0EsPq">Reasoning-Focused Evaluation of Long-Context Efficcient Inference Techniques</a> (NeurIPS Efficient Reasoning Workshop, 2025)</li>
+  <li><b>Reasoning-Focused Long-Context Evaluations.</b> <a href="https://princeton-pli.github.io/LongProc/#">LongProc</a> (COLM, 2025), <a href="https://openreview.net/forum?id=uCOMb0EsPq">Reasoning-Focused Evaluation of Efficient Long-Context Inference Techniques</a> (NeurIPS Efficient Reasoning Workshop, 2025)</li>
 
-  <li><b>Safety Evaluations.</b> <a href="https://arxiv.org/abs/2505.18384">Dynamic Risk Assessments for Offensive Cybesecurity Agents</a> (NeurIPS, 2025)</li>
+  <li><b>Safety Evaluations.</b> <a href="https://arxiv.org/abs/2505.18384">Dynamic Risk Assessments for Offensive Cybersecurity Agents</a> (NeurIPS, 2025)</li>
 
   <li><b>Multi-Agent Evaluations.</b> Scaling Laws for Strategic Interactions (2025), Propagating In-Context Scheming in Multi-Agent Systems (2025)</li>
 </ul>
-
-**Email:** [x]@princeton.edu where [x]=joie.

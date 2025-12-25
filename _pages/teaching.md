@@ -50,7 +50,7 @@ nav_order: 5
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:blue">cos240&nbsp;&nbsp;</span>
+        <span style="font-weight: bold; color:green">cos240&nbsp;&nbsp;</span>
     </td>
     <td>
     </td>
@@ -115,7 +115,7 @@ nav_order: 5
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:blue">cos429&nbsp;&nbsp;</span>
+        <span style="font-weight: bold; color:orange">cos429&nbsp;&nbsp;</span>
     </td>
     <td>
     </td>
@@ -154,12 +154,12 @@ nav_order: 5
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:red">*cos597r&nbsp;&nbsp;</span>
+        <span style="font-weight: bold; color:red">*cos557 &nbsp;&nbsp;</span>
     </td>
     <td>
     </td>
     <td>
-        Advanced Topics in CS: Deep Dive into Large Language Models <span style="font-size: 10pt; font-style: italic;">taught by Danqi Chen and Sanjeev Arora</span>
+        AI for Precision Health <span style="font-size: 10pt; font-style: italic;">taught by Olga Troyanskaya</span>
     </td>
 </tr>
 <tr>
@@ -167,12 +167,12 @@ nav_order: 5
         <br>
     </td>
     <td>
-        <span style="font-weight: bold; color:red">*cos557 &nbsp;&nbsp;</span>
+        <span style="font-weight: bold; color:red">*cos597r&nbsp;&nbsp;</span>
     </td>
     <td>
     </td>
     <td>
-        AI for Precision Health <span style="font-size: 10pt; font-style: italic;">taught by Olga Troyanskaya</span>
+        Advanced Topics in CS: Deep Dive into Large Language Models <span style="font-size: 10pt; font-style: italic;">taught by Danqi Chen and Sanjeev Arora</span>
     </td>
 </tr>
 </tbody>
