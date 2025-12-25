@@ -34,7 +34,6 @@ Outside of research, I lead [AI@Princeton](https://www.aiatprinceton.com/officer
 
 **Email:** [x]@princeton.edu where [x]=joie
 
-
 ### research highlights:
 
 <ul>
