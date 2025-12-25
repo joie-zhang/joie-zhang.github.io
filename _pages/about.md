@@ -5,7 +5,7 @@ permalink: /
 subtitle: Princeton CS '26, MATS Scholar
 profile:
   align: right
-  image: Joie_Zhang_2025.png
+  image: Joie_Zhang_2025.jpeg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
@@ -32,12 +32,8 @@ Additionally, I’m interested in **rethinking long-context training, reasoning,
 
 Outside of research, I lead [AI@Princeton](https://www.aiatprinceton.com/officers), which is Princeton's largest undergrad organization focused on increasing AI literacy on campus. I'm also the Treasurer of [Princeton Women in Computer Science](https://www.princetonwics.org/), a CS [teaching assistant](https://introlab.cs.princeton.edu/), and a member of the [Edwards Collective](https://edwards.princeton.edu/). When I'm not queueing jobs or reading outputs, I like to run, swim, and pet strangers' dogs.
 
-**Email:** [x]@princeton.edu where [x]=joie.
+**Email:** [x]@princeton.edu where [x]=joie
 
-<p>
-<br>
-<br>
-</p>
 
 ### research highlights:
 
