@@ -1,22 +1,22 @@
 ---
 layout: distill
-title: Highlights of NeurIPS 2023 from Reading All 3584 Abstracts
-date: 2024-01-09
+title: Highlights of NeurIPS 2025
+date: 2025-12-25
 nav: true
-tags: neurips2023
+tags: neurips2025
 categories: for fun
 giscus_comments: false
 related_posts: false
-description: Just me reading through every paper abstract...
+description: Trends I observed and papers I liked
 tags: summary generative ai 
 categories: blog 
 related_posts: false
 authors:
-  - name: Alex Zhang
+  - name: Joie Zhang
     affiliations:
       name: Undergraduate at Princeton University
 
-bibliography: neurips2023.bib
+bibliography: neurips2025.bib
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:

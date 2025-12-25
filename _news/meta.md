@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting a SWE internship at Meta working on integrity infrastructure!
+Starting a SWE internship at Meta working on integrity infrastructure.
