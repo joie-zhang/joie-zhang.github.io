@@ -37,9 +37,9 @@ Outside of research, I lead [AI@Princeton](https://www.aiatprinceton.com/officer
 ### research highlights:
 
 <ul>
-  <li><b>Reasoning-Focused Long-Context Evaluations.</b> <a href="https://princeton-pli.github.io/LongProc/#">LongProc</a> (COLM, 2025), <a href="https://openreview.net/forum?id=uCOMb0EsPq">Reasoning-Focused Evaluation of Efficient Long-Context Inference Techniques</a> (NeurIPS Efficient Reasoning Workshop, 2025)</li>
+  <li><b>Reasoning-Focused Long-Context Evals.</b> <a href="https://princeton-pli.github.io/LongProc/#">LongProc</a> (COLM, 2025), <a href="https://openreview.net/forum?id=uCOMb0EsPq">Reasoning-Focused Evaluation of Efficient Long-Context Inference Techniques</a> (NeurIPS Efficient Reasoning Workshop, 2025)</li>
 
-  <li><b>Safety Evaluations.</b> <a href="https://arxiv.org/abs/2505.18384">Dynamic Risk Assessments for Offensive Cybersecurity Agents</a> (NeurIPS, 2025)</li>
+  <li><b>Agent Safety Evals.</b> <a href="https://arxiv.org/abs/2505.18384">Dynamic Risk Assessments for Offensive Cybersecurity Agents</a> (NeurIPS, 2025)</li>
 
-  <li><b>Multi-Agent Evaluations.</b> Scaling Laws for Strategic Interactions (2025), Propagating In-Context Scheming in Multi-Agent Systems (2025)</li>
+  <li><b>Multi-Agent Systems.</b> Scaling Laws for Strategic Interactions (2025), Propagating In-Context Scheming in Multi-Agent Systems (2025)</li>
 </ul>
