@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Joie
 middle_name:
 last_name: Zhang
-email: joie@princeton.edu
+email: joie@alumni.princeton.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Joie Zhang's Website.
 footer_text: # footer text
@@ -107,7 +107,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Email works best!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -189,7 +189,7 @@ announcements:
   limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
