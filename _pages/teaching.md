@@ -115,6 +115,19 @@ nav_order: 5
         <br>
     </td>
     <td>
+        <span style="font-weight: bold; color:blue">cos352/spi352&nbsp;&nbsp;</span>
+    </td>
+    <td>
+    </td>
+    <td>
+        Artificial Intelligence, Law, & Public Policy <span style="font-size: 10pt; font-style: italic;">taught by Peter Henderson</span>
+    </td>
+</tr>
+<tr>
+    <td>
+        <br>
+    </td>
+    <td>
         <span style="font-weight: bold; color:orange">cos429&nbsp;&nbsp;</span>
     </td>
     <td>
@@ -173,6 +186,19 @@ nav_order: 5
     </td>
     <td>
         Advanced Topics in CS: Deep Dive into Large Language Models <span style="font-size: 10pt; font-style: italic;">taught by Danqi Chen and Sanjeev Arora</span>
+    </td>
+</tr>
+<tr>
+    <td>
+        <br>
+    </td>
+    <td>
+        <span style="font-weight: bold; color:red">*cos598a&nbsp;&nbsp;</span>
+    </td>
+    <td>
+    </td>
+    <td>
+        Advanced Topics in CS: AI Safety & Alignment [sat in] <span style="font-size: 10pt; font-style: italic;">taught by Peter Henderson</span>
     </td>
 </tr>
 </tbody>
