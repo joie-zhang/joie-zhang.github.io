@@ -9,7 +9,7 @@ nav_order: 5
 
 <h3>school</h3>
 
-\> Graduating from Princeton University in May 2026 with a BSE in Computer Science
+\> Graduated <i>magna cum laude</i> from Princeton University in May 2026 with a BSE in Computer Science and a minor in Statistics and Machine Learning. Inducted into Tau Beta Pi and Sigma Xi honor societies.
 
 \> Graduated <i>cum laude</i> from Harvard-Westlake School in May 2022
 

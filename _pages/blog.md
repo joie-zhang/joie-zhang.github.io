@@ -2,8 +2,8 @@
 layout: default
 permalink: /blog/
 title: blog
-description: high-quality and concise technical posts
-nav: true
+description: hopes, dreams, and half-baked ideas
+nav: false
 nav_order: 1
 pagination:
   enabled: true
