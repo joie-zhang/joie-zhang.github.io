@@ -26,13 +26,13 @@ Hi! I'm Joie Zhang (pronounced as "joey"). Currently, I am a [MATS Fellow](https
 
 I recently graduated _magna cum laude_ from Princeton, majoring in computer science, where I was grateful to be co-advised by [Prof. Danqi Chen](https://www.cs.princeton.edu/~danqic/) and [Prof. Peter Henderson](https://www.peterhenderson.co/). I was also previously a MATS Fellow working with [Dr. Lewis Hammond](https://lewishammond.com/) on multi-agent safety.
 
-My research focuses on alignment + safety, technical governance, and the law.
+My research focuses on alignment + safety, technical governance, and AI law and policy.
 
-**Alignment + Safety:** I'm particularly interested in investigating **MARL for safety and safety for MARL**: how can we use multi-agent RL to improve the adversarial robustness of language models? Conversely, how can we tackle new safety risks that emerge in multi-agent LLM systems? And, can benign coordination and cooperation training necessarily be decoupled from catastrophic collusion (e.g. agent swarms conducting cyberattacks)?
+**1. Alignment + Safety:** I'm particularly interested in investigating **MARL for safety and safety for MARL**: how can we use multi-agent RL to improve the adversarial robustness of language models? Conversely, how can we tackle new safety risks that emerge in multi-agent LLM systems? And, can benign coordination and cooperation training necessarily be decoupled from catastrophic collusion (e.g. agent swarms conducting cyberattacks)?
 
-**Technical Governance:** What should **robust and generalizable evals** look like for highly-personalized persistent agents like Muse and Instinct? What is going on with **data centers**, and how can hyperscalers build community relationships with binding commitments? How exactly do we **pace the frontier** responsibly, cohesively, and continuously?
+**2. Technical Governance:** What should **robust and generalizable evals** look like for highly-personalized persistent agents like Muse and Instinct? What is going on with **data centers**, and how can hyperscalers build community relationships with binding commitments? How exactly do we **pace the frontier** responsibly, cohesively, and continuously?
 
-**Law:** How should **tort law** adapt in a world with ASI? Does ASI provide a stronger case for evaluating AI agents through the lens of strict liability rather than negligence?
+**3. AI Law and Policy:** How should **tort law** adapt in a world with ASI? Does ASI provide a stronger case for evaluating AI agents through the lens of strict liability rather than negligence?
 
 <!-- Additionally, I’m interested in **rethinking long-context training, reasoning, and continual learning from the perspective of computer-use agents**; what if we designed new training paradigms that more closely resembled multi-turn dialogues? Can language models balance parametric updates on new, truthful information while remaining robust to lies, satire, and prompt injections that may cause confusion and misalignment? Beyond relying on context compression and recursive prompting techniques, how can we make both pretraining and post-training more suited for long-context multi-turn agent workflows? -->
 
