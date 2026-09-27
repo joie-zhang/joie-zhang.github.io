@@ -26,7 +26,7 @@ Hi! I'm Joie Zhang (pronounced as "joey"). Currently, I am a [MATS Fellow](https
 
 I recently graduated _magna cum laude_ from Princeton, majoring in computer science, where I was grateful to be co-advised by [Prof. Danqi Chen](https://www.cs.princeton.edu/~danqic/) and [Prof. Peter Henderson](https://www.peterhenderson.co/). I was also previously a MATS Fellow working with [Dr. Lewis Hammond](https://lewishammond.com/) on multi-agent safety.
 
-My research focuses on alignment + safety, technical governance, and the law. 
+My research focuses on alignment + safety, technical governance, and the law.
 
 **Alignment + Safety:** I'm particularly interested in investigating **MARL for safety and safety for MARL**: how can we use multi-agent RL to improve the adversarial robustness of language models? Conversely, how can we tackle new safety risks that emerge in multi-agent LLM systems? And, can benign coordination and cooperation training necessarily be decoupled from catastrophic collusion (e.g. agent swarms conducting cyberattacks)?
 
